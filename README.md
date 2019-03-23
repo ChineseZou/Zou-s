@@ -1,2 +1,3 @@
 # Zou-s
-None
+
+Hi! i'm ChineseZou
